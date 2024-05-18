@@ -6,7 +6,7 @@ import {
   Lightbulb,
   Youtube,
   Code,
-  SendHorizontal,.
+  SendHorizontal,
 } from "lucide-react";
 import { Context } from "@/context/ContextProvider";
 const GeminiBody = () => {
