@@ -6,7 +6,7 @@ import {
   Lightbulb,
   Youtube,
   Code,
-  SendHorizontal,
+  SendHorizontal,.
 } from "lucide-react";
 import { Context } from "@/context/ContextProvider";
 const GeminiBody = () => {
@@ -23,7 +23,7 @@ const GeminiBody = () => {
   return (
     <div className="flex-1 min-h-[100vh] pb-[15vh] relative">
       <div className="flex items-center justify-between p-5 text-xl text-gray-400">
-        <p>Gemini</p>
+        <p>Europa</p>
         <CircleUserRound size={40} className="text-softTextColor" />
       </div>
       <div className="max-w-[900px] m-auto">
@@ -32,7 +32,7 @@ const GeminiBody = () => {
             <div className="my-12 text-5xl font-medium p-5">
               <p>
                 <span className="font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400">
-                  Hello, Mehtab kazmi
+                  Europa
                 </span>
               </p>
               <p>How can I help you today?</p>
