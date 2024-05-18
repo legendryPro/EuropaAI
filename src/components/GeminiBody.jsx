@@ -99,8 +99,7 @@ const GeminiBody = () => {
             </div>
           </form>
           <p className="text-gray-400 text-sm text-center p-3">
-            Gemini may display inaccurate info, including about people, so
-            double-check its responses. Your privacy and Gemini Apps
+            Europa Use Gemini api We dont have our own api. LNHUB CREATION
           </p>
         </div>
       </div>
