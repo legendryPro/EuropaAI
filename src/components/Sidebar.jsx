@@ -36,7 +36,7 @@ const Sidebar = () => {
           }}
         >
           <Plus size={20} className="cursor-pointer text-softTextColor" />
-          {isOpen ? <p>New chat</p> : null}
+          {isOpen ? <p>Europa Beta 1.0</p> : null}
         </div>
         {isOpen ? (
           <div className="flex flex-col">
